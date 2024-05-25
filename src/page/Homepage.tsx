@@ -30,3 +30,9 @@ const Homepage = () => {
 }
 
 export default Homepage
+
+
+
+{/* <div>1) I/We declare that this invoice shows actual price of the goods and/or the service described and that all particulars are true and correct.</div>
+                <div>2) Error & omission expected.</div>
+                <div>3) Subject to juridiction of courts in Varanasi.</div> */}
